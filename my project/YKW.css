@@ -1,0 +1,60 @@
+
+p {
+	font-family: arial;
+}
+
+#white {
+	color: black;
+}
+
+h1{
+	font-family: arial;
+}
+
+h1 {
+	color: black;
+}
+
+ #aaa {
+	text-align: center;
+}
+ 
+.yyy{
+	color: black;
+}
+
+h1 {
+text-align: center;
+}
+
+span{
+font-size: 2.0em
+}
+
+body { 
+ 
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1c/Yomkippurribon.svg);
+ background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+ background-size: 50% 25%;
+ background-color: grey;
+ background-attachment: fixed;
+}
+
+h2 {
+color: rgb(255.0.0);
+}
+
+p {
+border: solid;
+border: 2px dotted;
+border: inherit;
+
+}
+
+
+
+
+
+

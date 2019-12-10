@@ -1,0 +1,52 @@
+body{
+	
+	background: url(https://resources.premierleague.com/photos/premierleague/photo/2019/12/01/02cc9f64-29d2-4ea0-902f-2ed81491c4c0/1191250391.jpg?width=1350&height=759) no-repeat fixed center;
+    background-size: cover; 
+    background-position: top;
+    font-family: Merriweather ;
+
+
+}
+html {
+	height: 100%
+
+}
+
+
+#content {
+	text-align: center;
+    padding-top: 30% 
+
+
+}
+
+
+
+
+h1 {
+ color: #90EE90; font-family: 'Trocchi', serif; font-size: 5em; font-weight: normal; line-height: 48px; margin: 0; 
+
+text-align: left;
+}
+
+ h3 {
+ 	 color: #90EE90; font-family: 'Trocchi', serif; font-size: 3em; font-weight: small; line-height: 24px; margin: 15; 
+ 	text-align: left;
+ }
+hr {
+border: 20px;
+height: 1px;
+background: #333;
+background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+
+}
+
+
+.navbar-inverse {
+	background-color: #00008B ;
+
+
+}

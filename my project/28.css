@@ -1,0 +1,26 @@
+body {
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+     width: 80%;
+    margin: 20px auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h2 {
+	color: rgb(0, 133, 156);
+	font-size: 2.0rem;
+}
+
+.summer {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+strong {
+	font-size: 1.5em
+}

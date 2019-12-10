@@ -1,0 +1,35 @@
+body {
+
+	padding-top: 70px;
+}
+.jumbotron {
+    font-family: Oswald;
+	color: #2c3e50;
+	background-color: #ecf0f1;
+
+	
+}
+.navbar-inverse {
+	background-color: #2c3e50 ;
+}
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #f5f5f5;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f5f5f5;
+}
+
+.thumbnail {
+	border-color: grey; 
+    border-width: 20px
+
+}
+
+.centered{
+	font-family: 'B612 Mono', monospace;
+	font-weight: bold;
+}
